@@ -1,7 +1,5 @@
 import React from 'react'
 import { Link } from 'react-router-dom'
-import { IoSearchOutline } from 'react-icons/io5'
-import { GiNotebook } from 'react-icons/gi'
 const Home = () => {
     return (
         <>
